@@ -1,6 +1,5 @@
 # Run features extraction from MRI 2D slices using Swin Transormer
 # Author: Redha Ali, PhD
-# Cincinnati children's hospital medical center
 # Data Modified: 03/10/2022
 
 import os
