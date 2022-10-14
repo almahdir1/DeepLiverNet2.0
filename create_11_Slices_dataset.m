@@ -1,6 +1,5 @@
-% Run reorganize .npy files
+% Run create 11 MRI slices dataset
 % Author: Redha Ali, PhD
-% Cincinnati children's hospital medical center
 % Data Modified: 10/3/2022
 
 addpath("..\Util\")
