@@ -1,5 +1,5 @@
 # DeepLiverNet2.0
-by Redha Ali (redha.ali@cchmc.org)
+by Redha Ali
 
 This is the official implementation of our proposed DeepLiverNet2.0:
 
