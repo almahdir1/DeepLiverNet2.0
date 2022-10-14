@@ -4,7 +4,7 @@ by Redha Ali (redha.ali@cchmc.org)
 This is the official implementation of our proposed DeepLiverNet2.0:
 
 Tensorflow implementation of Swin Transformer model.
-Based on [Official Pytorch implementation](https://github.com/almahdir1/Swin-Transformer-TF).
+Based on [Official Tensorflow implementation](https://github.com/almahdir1/Swin-Transformer-TF).
 ![image](https://user-images.githubusercontent.com/24825165/121768619-038e6d80-cb9a-11eb-8cb7-daa827e7772b.png)
 
 ## Requirements
