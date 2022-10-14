@@ -6,6 +6,11 @@ Based on [Official Pytorch implementation](https://github.com/almahdir1/Swin-Tra
 
 ## Requirements
 - `tensorflow >= 2.4.1`
+- `scipy`
+- `numpy`
+- `matplotlib`
+- `os`
+- `MATLAB 2021a or later`
 
 ## Pretrained Swin Transformer Checkpoints
 **ImageNet-1K and ImageNet-22K Pretrained Checkpoints**  
