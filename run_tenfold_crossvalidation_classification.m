@@ -1,6 +1,5 @@
 % Run 10 K-folds classification for liver data
 % Author: Redha Ali, PhD
-% Cincinnati children's hospital medical center
 % Data Modified: 03/10/2022
 %% Load Training Data
 
